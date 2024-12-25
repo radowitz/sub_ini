@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN,cdn.ivaws.com
+  - DOMAIN-KEYWORD,capitalone
+  - DOMAIN-KEYWORD,fidelity
+  - DOMAIN-KEYWORD,schwab
+  - DOMAIN-KEYWORD,wise
+  - DOMAIN-KEYWORD,mellon
+  - DOMAIN-KEYWORD,vantagescore
+  - DOMAIN-KEYWORD,myfico
+  - DOMAIN-KEYWORD,equifax
+  - DOMAIN-KEYWORD,kraken
+  - DOMAIN-KEYWORD,experian
+  - DOMAIN-KEYWORD,bloom
+  - DOMAIN-KEYWORD,stitchcredit
+  - DOMAIN-KEYWORD,chase
+  - DOMAIN-KEYWORD,americanexpress
+  - DOMAIN-KEYWORD,citi
