@@ -25,3 +25,4 @@ payload:
   - DOMAIN,o4504611328622592.ingest.sentry.io
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN,assets.adobedtm.com
+  - DOMAIN-KEYWORD,aexp
