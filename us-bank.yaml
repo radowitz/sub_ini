@@ -21,3 +21,5 @@ payload:
   - DOMAIN-KEYWORD,usbank
   - DOMAIN-KEYWORD,statefarm
   - DOMAIN-KEYWORD,revolut
+  - DOMAIN,ocsp.digicert.com
+  - DOMAIN,o4504611328622592.ingest.sentry.io
