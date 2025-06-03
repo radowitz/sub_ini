@@ -27,7 +27,8 @@ payload:
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN,assets.adobedtm.com
   - DOMAIN-KEYWORD,aexp
-  - DOMAIN-KEYWORD,glancecdn
+  - DOMAIN-KEYWORD,glance
   - DOMAIN-KEYWORD,clientstream
   - DOMAIN-KEYWORD,launchdarkly
   - DOMAIN,digitalfeedback.us.confirmit.com
+  - DOMAIN-SUFFIX,split.io
