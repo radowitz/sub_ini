@@ -3,6 +3,11 @@ payload:
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,fidelity
   - DOMAIN-KEYWORD,schwab
+  - DOMAIN-KEYWORD,charlesschwab
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebaseremoteconfig.googleapis.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,app-analytics-services.com
   - DOMAIN-KEYWORD,wise
   - DOMAIN-KEYWORD,mellon
   - DOMAIN-KEYWORD,vantagescore
