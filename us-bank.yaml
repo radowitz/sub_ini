@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN,assets.adobedtm.com
   - DOMAIN-KEYWORD,aexp
+  - DOMAIN-KEYWORD,stripe
