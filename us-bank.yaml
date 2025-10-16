@@ -23,6 +23,10 @@ payload:
   - DOMAIN-KEYWORD,creditreport
   - DOMAIN,ocsp.digicert.com
   - DOMAIN,o4504611328622592.ingest.sentry.io
+  - DOMAIN,config.sdk.kochava.kvaedit.site
+  - DOMAIN,config.sdk.kochava.com
+  - DOMAIN,mobile-collector.newrelic.com
+  - DOMAIN,logx.optimizely.com
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN,assets.adobedtm.com
   - DOMAIN-KEYWORD,aexp
