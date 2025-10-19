@@ -18,6 +18,7 @@ payload:
   - DOMAIN-KEYWORD,bankofamerica
   - DOMAIN-KEYWORD,zelle
   - DOMAIN-KEYWORD,usbank
+  - DOMAIN-KEYWORD,finicity
   - DOMAIN-KEYWORD,statefarm
   - DOMAIN-KEYWORD,revolut
   - DOMAIN-KEYWORD,creditreport
