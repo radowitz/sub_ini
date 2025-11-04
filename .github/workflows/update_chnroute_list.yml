@@ -1,0 +1,39 @@
+name: Update Chnroute List
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Chnroute list
+        run: |
+          curl -s https://raw.githubusercontent.com/soffchen/GeoIP2-CN/release/CN-ip-cidr.txt | \
+          sed -e 's/^/add address=/g' -e 's/$/ list=Chnroute/g' | \
+          sed -e $'1i\\\n/ip firewall address-list' \
+              -e $'1i\\\nremove [/ip firewall address-list find list=Chnroute]' \
+              -e $'1i\\\nadd address=10.0.0.0/8 list=Chnroute comment=private-network' \
+              -e $'1i\\\nadd address=172.16.0.0/12 list=Chnroute comment=private-network' \
+              -e $'1i\\\nadd address=192.168.0.0/16 list=Chnroute comment=private-network' \
+          > cn.rsc
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code cn.rsc || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cn.rsc
+          git commit -m "Update Chnroute list - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
