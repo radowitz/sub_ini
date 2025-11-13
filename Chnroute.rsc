@@ -2530,7 +2530,6 @@ add address=124.224.0.0/12 list=Chnroute
 add address=124.240.0.0/17 list=Chnroute
 add address=124.240.128.0/18 list=Chnroute
 add address=124.243.192.0/18 list=Chnroute
-add address=124.248.0.0/22 list=Chnroute
 add address=124.248.64.0/18 list=Chnroute
 add address=124.250.0.0/15 list=Chnroute
 add address=124.254.0.0/18 list=Chnroute
