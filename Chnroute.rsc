@@ -1291,7 +1291,6 @@ add address=103.227.76.0/22 list=Chnroute
 add address=103.227.80.0/22 list=Chnroute
 add address=103.227.120.0/22 list=Chnroute
 add address=103.227.136.0/22 list=Chnroute
-add address=103.227.228.0/22 list=Chnroute
 add address=103.228.12.0/22 list=Chnroute
 add address=103.228.136.0/22 list=Chnroute
 add address=103.228.160.0/22 list=Chnroute
@@ -3256,7 +3255,7 @@ add address=203.110.232.0/23 list=Chnroute
 add address=203.114.244.0/22 list=Chnroute
 add address=203.118.248.0/22 list=Chnroute
 add address=203.119.25.0/24 list=Chnroute
-add address=203.119.27.0/24 list=Chnroute
+add address=203.119.26.0/23 list=Chnroute
 add address=203.119.28.0/23 list=Chnroute
 add address=203.119.30.0/24 list=Chnroute
 add address=203.119.80.0/24 list=Chnroute
