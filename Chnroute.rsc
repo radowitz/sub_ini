@@ -3635,7 +3635,7 @@ add address=218.98.104.0/22 list=Chnroute
 add address=218.98.108.0/23 list=Chnroute
 add address=218.98.111.0/24 list=Chnroute
 add address=218.98.160.0/24 list=Chnroute
-add address=218.98.176.0/21 list=Chnroute
+add address=218.98.176.0/24 list=Chnroute
 add address=218.98.192.0/24 list=Chnroute
 add address=218.104.0.0/15 list=Chnroute
 add address=218.106.0.0/16 list=Chnroute
