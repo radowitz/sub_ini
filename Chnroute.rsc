@@ -2860,7 +2860,6 @@ add address=202.41.241.0/24 list=Chnroute
 add address=202.41.242.0/24 list=Chnroute
 add address=202.41.244.0/22 list=Chnroute
 add address=202.41.248.0/21 list=Chnroute
-add address=202.46.224.0/22 list=Chnroute
 add address=202.47.104.0/21 list=Chnroute
 add address=202.51.32.0/20 list=Chnroute
 add address=202.57.192.0/24 list=Chnroute
@@ -2936,9 +2935,6 @@ add address=202.130.240.0/21 list=Chnroute
 add address=202.136.72.0/23 list=Chnroute
 add address=202.136.208.0/21 list=Chnroute
 add address=202.136.216.0/23 list=Chnroute
-add address=202.136.218.0/24 list=Chnroute
-add address=202.136.220.0/24 list=Chnroute
-add address=202.136.222.0/23 list=Chnroute
 add address=202.136.255.0/24 list=Chnroute
 add address=202.140.140.0/22 list=Chnroute
 add address=202.141.160.0/19 list=Chnroute
