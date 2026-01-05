@@ -963,7 +963,7 @@ add address=103.73.204.0/22 list=Chnroute
 add address=103.74.24.0/21 list=Chnroute
 add address=103.74.48.0/22 list=Chnroute
 add address=103.74.80.0/22 list=Chnroute
-add address=103.75.104.0/22 list=Chnroute
+add address=103.75.107.0/24 list=Chnroute
 add address=103.75.152.0/22 list=Chnroute
 add address=103.76.60.0/22 list=Chnroute
 add address=103.76.220.0/22 list=Chnroute
@@ -1236,6 +1236,7 @@ add address=103.227.76.0/22 list=Chnroute
 add address=103.227.80.0/22 list=Chnroute
 add address=103.227.120.0/22 list=Chnroute
 add address=103.227.136.0/22 list=Chnroute
+add address=103.227.228.0/22 list=Chnroute
 add address=103.228.12.0/22 list=Chnroute
 add address=103.228.136.0/22 list=Chnroute
 add address=103.228.160.0/22 list=Chnroute
