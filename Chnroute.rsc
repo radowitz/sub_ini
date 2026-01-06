@@ -367,7 +367,7 @@ add address=45.117.8.0/22 list=Chnroute
 add address=45.117.68.0/22 list=Chnroute
 add address=45.119.60.0/22 list=Chnroute
 add address=45.119.68.0/22 list=Chnroute
-add address=45.119.104.0/23 list=Chnroute
+add address=45.119.105.0/24 list=Chnroute
 add address=45.119.116.0/22 list=Chnroute
 add address=45.120.100.0/22 list=Chnroute
 add address=45.120.164.0/22 list=Chnroute
