@@ -1010,7 +1010,7 @@ add address=103.96.148.0/22 list=Chnroute
 add address=103.96.214.0/23 list=Chnroute
 add address=103.96.224.0/23 list=Chnroute
 add address=103.97.60.0/24 list=Chnroute
-add address=103.97.112.0/24 list=Chnroute
+add address=103.97.112.0/23 list=Chnroute
 add address=103.98.0.0/24 list=Chnroute
 add address=103.98.44.0/22 list=Chnroute
 add address=103.98.125.0/24 list=Chnroute
