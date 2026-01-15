@@ -3690,6 +3690,7 @@ add address=220.200.192.0/18 list=Chnroute
 add address=220.201.0.0/16 list=Chnroute
 add address=220.202.0.0/16 list=Chnroute
 add address=220.203.0.0/18 list=Chnroute
+add address=220.203.128.0/18 list=Chnroute
 add address=220.203.216.0/23 list=Chnroute
 add address=220.203.220.0/22 list=Chnroute
 add address=220.203.224.0/19 list=Chnroute
