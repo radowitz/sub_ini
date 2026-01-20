@@ -2242,7 +2242,7 @@ add address=122.91.0.0/17 list=Chnroute
 add address=122.94.0.0/16 list=Chnroute
 add address=122.96.0.0/15 list=Chnroute
 add address=122.102.64.0/20 list=Chnroute
-add address=122.112.0.0/20 list=Chnroute
+add address=122.112.0.0/22 list=Chnroute
 add address=122.112.32.0/19 list=Chnroute
 add address=122.112.132.0/22 list=Chnroute
 add address=122.112.136.0/21 list=Chnroute
