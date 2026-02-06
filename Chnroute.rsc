@@ -691,6 +691,7 @@ add address=101.96.132.0/23 list=Chnroute
 add address=101.96.134.0/24 list=Chnroute
 add address=101.96.142.0/23 list=Chnroute
 add address=101.96.144.0/20 list=Chnroute
+add address=101.96.192.0/18 list=Chnroute
 add address=101.104.144.0/20 list=Chnroute
 add address=101.104.160.0/20 list=Chnroute
 add address=101.106.0.0/19 list=Chnroute
