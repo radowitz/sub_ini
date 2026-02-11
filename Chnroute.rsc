@@ -603,7 +603,6 @@ add address=60.235.0.0/16 list=Chnroute
 add address=60.245.128.0/17 list=Chnroute
 add address=60.247.0.0/16 list=Chnroute
 add address=60.252.0.0/16 list=Chnroute
-add address=60.253.128.0/17 list=Chnroute
 add address=60.255.0.0/16 list=Chnroute
 add address=61.4.80.0/23 list=Chnroute
 add address=61.28.20.0/24 list=Chnroute
