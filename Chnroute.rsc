@@ -1447,7 +1447,7 @@ add address=106.230.0.0/16 list=Chnroute
 add address=107.148.240.0/21 list=Chnroute
 add address=107.148.248.0/24 list=Chnroute
 add address=107.148.250.0/23 list=Chnroute
-add address=107.148.252.0/22 list=Chnroute
+add address=107.148.252.0/23 list=Chnroute
 add address=107.151.212.0/24 list=Chnroute
 add address=107.190.229.0/24 list=Chnroute
 add address=109.244.0.0/16 list=Chnroute
