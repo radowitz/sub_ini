@@ -3511,7 +3511,11 @@ add address=211.156.220.0/23 list=Chnroute
 add address=211.156.223.0/24 list=Chnroute
 add address=211.157.0.0/19 list=Chnroute
 add address=211.157.96.0/19 list=Chnroute
-add address=211.157.128.0/17 list=Chnroute
+add address=211.157.128.0/18 list=Chnroute
+add address=211.157.192.0/20 list=Chnroute
+add address=211.157.219.0/24 list=Chnroute
+add address=211.157.222.0/24 list=Chnroute
+add address=211.157.224.0/19 list=Chnroute
 add address=211.158.0.0/16 list=Chnroute
 add address=211.159.64.0/21 list=Chnroute
 add address=211.159.128.0/17 list=Chnroute
