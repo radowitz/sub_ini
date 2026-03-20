@@ -882,6 +882,7 @@ add address=103.37.136.0/21 list=Chnroute
 add address=103.37.144.0/20 list=Chnroute
 add address=103.37.160.0/21 list=Chnroute
 add address=103.37.172.0/22 list=Chnroute
+add address=103.38.20.0/24 list=Chnroute
 add address=103.38.40.0/22 list=Chnroute
 add address=103.38.92.0/23 list=Chnroute
 add address=103.38.116.0/22 list=Chnroute
