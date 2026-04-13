@@ -498,8 +498,7 @@ add address=54.222.64.0/23 list=Chnroute
 add address=54.222.70.0/23 list=Chnroute
 add address=54.222.72.0/21 list=Chnroute
 add address=54.222.80.0/21 list=Chnroute
-add address=54.222.88.0/24 list=Chnroute
-add address=54.222.90.0/23 list=Chnroute
+add address=54.222.88.0/22 list=Chnroute
 add address=54.222.96.0/23 list=Chnroute
 add address=54.222.100.0/22 list=Chnroute
 add address=54.222.104.0/21 list=Chnroute
