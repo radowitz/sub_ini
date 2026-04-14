@@ -775,6 +775,7 @@ add address=101.251.80.0/20 list=Chnroute
 add address=101.251.128.0/19 list=Chnroute
 add address=101.251.176.0/22 list=Chnroute
 add address=101.251.192.0/18 list=Chnroute
+add address=101.252.0.0/15 list=Chnroute
 add address=101.254.0.0/20 list=Chnroute
 add address=101.254.32.0/19 list=Chnroute
 add address=101.254.64.0/18 list=Chnroute
