@@ -1192,6 +1192,7 @@ add address=103.204.72.0/22 list=Chnroute
 add address=103.205.4.0/22 list=Chnroute
 add address=103.205.188.0/22 list=Chnroute
 add address=103.205.192.0/22 list=Chnroute
+add address=103.205.252.0/22 list=Chnroute
 add address=103.207.228.0/22 list=Chnroute
 add address=103.208.12.0/22 list=Chnroute
 add address=103.208.48.0/22 list=Chnroute
