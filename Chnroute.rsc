@@ -473,12 +473,11 @@ add address=49.232.0.0/14 list=Chnroute
 add address=49.239.192.0/18 list=Chnroute
 add address=52.80.0.0/15 list=Chnroute
 add address=52.82.0.0/17 list=Chnroute
-add address=52.82.128.0/23 list=Chnroute
+add address=52.82.128.0/24 list=Chnroute
 add address=52.82.131.0/24 list=Chnroute
 add address=52.82.132.0/24 list=Chnroute
 add address=52.82.134.0/23 list=Chnroute
 add address=52.82.136.0/24 list=Chnroute
-add address=52.82.144.0/23 list=Chnroute
 add address=52.82.148.0/22 list=Chnroute
 add address=52.82.160.0/21 list=Chnroute
 add address=52.82.170.0/23 list=Chnroute
@@ -2145,7 +2144,7 @@ add address=119.235.130.0/24 list=Chnroute
 add address=119.235.136.0/24 list=Chnroute
 add address=119.235.138.0/24 list=Chnroute
 add address=119.235.143.0/24 list=Chnroute
-add address=119.235.144.0/24 list=Chnroute
+add address=119.235.144.0/23 list=Chnroute
 add address=119.235.151.0/24 list=Chnroute
 add address=119.235.160.0/23 list=Chnroute
 add address=119.235.167.0/24 list=Chnroute
@@ -2248,9 +2247,9 @@ add address=121.60.0.0/14 list=Chnroute
 add address=121.69.0.0/16 list=Chnroute
 add address=121.70.0.0/17 list=Chnroute
 add address=121.76.0.0/15 list=Chnroute
-add address=121.79.128.0/20 list=Chnroute
-add address=121.79.144.0/22 list=Chnroute
-add address=121.79.148.0/24 list=Chnroute
+add address=121.79.131.0/24 list=Chnroute
+add address=121.79.132.0/24 list=Chnroute
+add address=121.79.134.0/23 list=Chnroute
 add address=121.89.0.0/16 list=Chnroute
 add address=121.192.0.0/13 list=Chnroute
 add address=121.201.0.0/17 list=Chnroute
@@ -2649,7 +2648,9 @@ add address=154.89.49.0/24 list=Chnroute
 add address=154.89.50.0/23 list=Chnroute
 add address=154.89.52.0/23 list=Chnroute
 add address=154.89.54.0/24 list=Chnroute
-add address=154.89.56.0/21 list=Chnroute
+add address=154.89.56.0/22 list=Chnroute
+add address=154.89.60.0/23 list=Chnroute
+add address=154.89.63.0/24 list=Chnroute
 add address=154.197.128.0/17 list=Chnroute
 add address=155.126.176.0/23 list=Chnroute
 add address=156.107.160.0/23 list=Chnroute
