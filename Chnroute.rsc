@@ -690,7 +690,6 @@ add address=101.50.8.0/21 list=Chnroute
 add address=101.50.56.0/22 list=Chnroute
 add address=101.52.4.0/24 list=Chnroute
 add address=101.52.6.0/24 list=Chnroute
-add address=101.52.68.0/23 list=Chnroute
 add address=101.52.112.0/21 list=Chnroute
 add address=101.52.124.0/22 list=Chnroute
 add address=101.52.128.0/20 list=Chnroute
