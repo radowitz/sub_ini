@@ -639,9 +639,9 @@ add address=61.241.192.0/19 list=Chnroute
 add address=61.242.0.0/15 list=Chnroute
 add address=62.234.0.0/16 list=Chnroute
 add address=63.140.0.0/24 list=Chnroute
-add address=64.188.38.0/23 list=Chnroute
-add address=64.188.40.0/22 list=Chnroute
-add address=64.188.44.0/23 list=Chnroute
+add address=64.188.40.0/23 list=Chnroute
+add address=64.188.43.0/24 list=Chnroute
+add address=64.188.44.0/24 list=Chnroute
 add address=68.79.0.0/18 list=Chnroute
 add address=69.230.192.0/18 list=Chnroute
 add address=69.231.128.0/18 list=Chnroute
@@ -655,7 +655,6 @@ add address=72.163.240.0/23 list=Chnroute
 add address=72.163.248.0/22 list=Chnroute
 add address=74.114.51.0/24 list=Chnroute
 add address=74.214.161.0/24 list=Chnroute
-add address=77.73.8.0/24 list=Chnroute
 add address=81.23.208.0/20 list=Chnroute
 add address=81.68.0.0/14 list=Chnroute
 add address=81.173.18.0/23 list=Chnroute
