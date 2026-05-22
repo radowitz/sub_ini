@@ -2455,7 +2455,6 @@ add address=124.196.32.0/23 list=Chnroute
 add address=124.196.40.0/22 list=Chnroute
 add address=124.196.48.0/22 list=Chnroute
 add address=124.196.52.0/23 list=Chnroute
-add address=124.196.55.0/24 list=Chnroute
 add address=124.196.56.0/23 list=Chnroute
 add address=124.196.58.0/24 list=Chnroute
 add address=124.196.66.0/24 list=Chnroute
