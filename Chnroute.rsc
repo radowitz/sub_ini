@@ -2176,6 +2176,8 @@ add address=120.92.128.0/18 list=Chnroute
 add address=120.92.192.0/19 list=Chnroute
 add address=120.92.224.0/20 list=Chnroute
 add address=120.94.0.0/15 list=Chnroute
+add address=120.130.0.0/18 list=Chnroute
+add address=120.130.64.0/19 list=Chnroute
 add address=120.131.0.0/20 list=Chnroute
 add address=120.131.18.0/24 list=Chnroute
 add address=120.131.88.0/21 list=Chnroute
