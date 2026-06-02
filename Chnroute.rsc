@@ -1209,7 +1209,7 @@ add address=103.212.109.0/24 list=Chnroute
 add address=103.213.49.0/24 list=Chnroute
 add address=103.213.50.0/23 list=Chnroute
 add address=103.213.52.0/22 list=Chnroute
-add address=103.213.60.0/22 list=Chnroute
+add address=103.213.56.0/21 list=Chnroute
 add address=103.213.64.0/19 list=Chnroute
 add address=103.213.96.0/22 list=Chnroute
 add address=103.213.132.0/22 list=Chnroute
