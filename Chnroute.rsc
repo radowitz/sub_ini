@@ -411,7 +411,7 @@ add address=45.248.8.0/22 list=Chnroute
 add address=45.248.108.0/23 list=Chnroute
 add address=45.248.110.0/24 list=Chnroute
 add address=45.249.212.0/22 list=Chnroute
-add address=45.250.32.0/22 list=Chnroute
+add address=45.250.32.0/21 list=Chnroute
 add address=45.250.40.0/22 list=Chnroute
 add address=45.250.152.0/23 list=Chnroute
 add address=45.250.180.0/23 list=Chnroute
