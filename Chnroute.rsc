@@ -1879,7 +1879,13 @@ add address=117.51.128.0/19 list=Chnroute
 add address=117.51.160.0/23 list=Chnroute
 add address=117.51.168.0/21 list=Chnroute
 add address=117.57.0.0/16 list=Chnroute
-add address=117.59.0.0/16 list=Chnroute
+add address=117.59.0.0/18 list=Chnroute
+add address=117.59.64.0/20 list=Chnroute
+add address=117.59.83.0/24 list=Chnroute
+add address=117.59.84.0/22 list=Chnroute
+add address=117.59.88.0/21 list=Chnroute
+add address=117.59.96.0/19 list=Chnroute
+add address=117.59.128.0/17 list=Chnroute
 add address=117.60.0.0/14 list=Chnroute
 add address=117.64.0.0/13 list=Chnroute
 add address=117.72.0.0/23 list=Chnroute
