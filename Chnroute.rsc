@@ -59,8 +59,7 @@ add address=8.162.64.0/19 list=Chnroute
 add address=8.163.0.0/16 list=Chnroute
 add address=8.164.0.0/14 list=Chnroute
 add address=8.168.0.0/15 list=Chnroute
-add address=8.176.0.0/18 list=Chnroute
-add address=8.176.96.0/19 list=Chnroute
+add address=8.176.0.0/17 list=Chnroute
 add address=8.176.128.0/19 list=Chnroute
 add address=14.16.0.0/12 list=Chnroute
 add address=14.103.0.0/16 list=Chnroute
