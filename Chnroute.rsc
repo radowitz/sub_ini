@@ -476,7 +476,7 @@ add address=52.82.132.0/24 list=Chnroute
 add address=52.82.134.0/23 list=Chnroute
 add address=52.82.136.0/24 list=Chnroute
 add address=52.82.144.0/23 list=Chnroute
-add address=52.82.148.0/22 list=Chnroute
+add address=52.82.148.0/23 list=Chnroute
 add address=52.82.160.0/21 list=Chnroute
 add address=52.82.170.0/23 list=Chnroute
 add address=52.82.172.0/22 list=Chnroute
