@@ -3803,7 +3803,6 @@ add address=222.126.142.0/23 list=Chnroute
 add address=222.126.146.0/23 list=Chnroute
 add address=222.126.148.0/23 list=Chnroute
 add address=222.126.152.0/21 list=Chnroute
-add address=222.126.164.0/24 list=Chnroute
 add address=222.126.170.0/23 list=Chnroute
 add address=222.126.172.0/22 list=Chnroute
 add address=222.126.180.0/22 list=Chnroute
