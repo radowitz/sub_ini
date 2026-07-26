@@ -2620,7 +2620,6 @@ add address=153.101.0.0/16 list=Chnroute
 add address=153.118.0.0/15 list=Chnroute
 add address=154.8.48.0/20 list=Chnroute
 add address=154.8.128.0/17 list=Chnroute
-add address=154.26.208.0/24 list=Chnroute
 add address=154.89.32.0/20 list=Chnroute
 add address=154.197.128.0/17 list=Chnroute
 add address=155.126.176.0/23 list=Chnroute
