@@ -1533,7 +1533,7 @@ add address=111.235.164.0/23 list=Chnroute
 add address=111.235.170.0/23 list=Chnroute
 add address=111.235.172.0/23 list=Chnroute
 add address=111.235.174.0/24 list=Chnroute
-add address=111.235.178.0/24 list=Chnroute
+add address=111.235.178.0/23 list=Chnroute
 add address=111.235.180.0/23 list=Chnroute
 add address=111.235.182.0/24 list=Chnroute
 add address=112.0.0.0/10 list=Chnroute
