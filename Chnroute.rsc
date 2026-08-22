@@ -2703,7 +2703,8 @@ add address=163.244.246.0/24 list=Chnroute
 add address=165.101.70.0/24 list=Chnroute
 add address=165.101.208.0/23 list=Chnroute
 add address=166.0.97.0/24 list=Chnroute
-add address=166.0.101.0/24 list=Chnroute
+add address=166.0.100.0/23 list=Chnroute
+add address=166.1.139.0/24 list=Chnroute
 add address=166.1.218.0/24 list=Chnroute
 add address=166.1.246.0/23 list=Chnroute
 add address=166.111.0.0/16 list=Chnroute
