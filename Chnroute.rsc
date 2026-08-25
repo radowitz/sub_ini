@@ -2655,6 +2655,7 @@ add address=157.156.0.0/16 list=Chnroute
 add address=157.255.0.0/16 list=Chnroute
 add address=158.26.192.0/24 list=Chnroute
 add address=158.26.194.0/24 list=Chnroute
+add address=158.140.252.0/23 list=Chnroute
 add address=158.140.255.0/24 list=Chnroute
 add address=159.27.0.0/16 list=Chnroute
 add address=159.75.0.0/16 list=Chnroute
