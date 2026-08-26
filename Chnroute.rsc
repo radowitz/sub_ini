@@ -2785,14 +2785,14 @@ add address=180.184.14.0/24 list=Chnroute
 add address=180.184.16.0/24 list=Chnroute
 add address=180.184.24.0/21 list=Chnroute
 add address=180.184.32.0/19 list=Chnroute
-add address=180.184.64.0/18 list=Chnroute
+add address=180.184.64.0/19 list=Chnroute
+add address=180.184.96.0/21 list=Chnroute
 add address=180.184.128.0/20 list=Chnroute
 add address=180.184.144.0/21 list=Chnroute
 add address=180.184.152.0/22 list=Chnroute
 add address=180.184.160.0/20 list=Chnroute
 add address=180.184.176.0/21 list=Chnroute
 add address=180.184.184.0/22 list=Chnroute
-add address=180.184.190.0/23 list=Chnroute
 add address=180.184.192.0/18 list=Chnroute
 add address=180.186.38.0/23 list=Chnroute
 add address=180.186.40.0/22 list=Chnroute
