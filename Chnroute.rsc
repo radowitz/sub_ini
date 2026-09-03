@@ -3273,7 +3273,6 @@ add address=204.77.130.0/24 list=Chnroute
 add address=205.198.19.0/24 list=Chnroute
 add address=206.109.70.0/23 list=Chnroute
 add address=210.2.0.0/23 list=Chnroute
-add address=210.2.4.0/24 list=Chnroute
 add address=210.5.128.0/19 list=Chnroute
 add address=210.12.0.0/16 list=Chnroute
 add address=210.13.0.0/17 list=Chnroute
