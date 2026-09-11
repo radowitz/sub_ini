@@ -3808,7 +3808,7 @@ add address=222.126.170.0/23 list=Chnroute
 add address=222.126.172.0/22 list=Chnroute
 add address=222.126.180.0/22 list=Chnroute
 add address=222.126.184.0/22 list=Chnroute
-add address=222.126.188.0/24 list=Chnroute
+add address=222.126.188.0/23 list=Chnroute
 add address=222.126.192.0/22 list=Chnroute
 add address=222.126.196.0/23 list=Chnroute
 add address=222.126.200.0/22 list=Chnroute
