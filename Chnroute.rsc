@@ -3174,6 +3174,7 @@ add address=203.107.20.0/22 list=Chnroute
 add address=203.107.26.0/23 list=Chnroute
 add address=203.107.28.0/22 list=Chnroute
 add address=203.107.32.0/19 list=Chnroute
+add address=203.107.70.0/24 list=Chnroute
 add address=203.107.72.0/21 list=Chnroute
 add address=203.107.80.0/21 list=Chnroute
 add address=203.107.96.0/23 list=Chnroute
