@@ -1939,8 +1939,6 @@ add address=118.72.0.0/13 list=Chnroute
 add address=118.80.0.0/15 list=Chnroute
 add address=118.84.0.0/15 list=Chnroute
 add address=118.88.32.0/19 list=Chnroute
-add address=118.88.64.0/18 list=Chnroute
-add address=118.88.128.0/17 list=Chnroute
 add address=118.89.0.0/16 list=Chnroute
 add address=118.102.16.0/20 list=Chnroute
 add address=118.103.164.0/22 list=Chnroute
