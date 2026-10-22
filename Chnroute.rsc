@@ -2930,6 +2930,7 @@ add address=202.91.190.0/23 list=Chnroute
 add address=202.91.224.0/20 list=Chnroute
 add address=202.91.240.0/21 list=Chnroute
 add address=202.91.248.0/22 list=Chnroute
+add address=202.92.4.0/22 list=Chnroute
 add address=202.93.252.0/22 list=Chnroute
 add address=202.95.0.0/19 list=Chnroute
 add address=202.96.0.0/13 list=Chnroute
