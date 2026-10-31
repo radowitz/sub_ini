@@ -3813,6 +3813,7 @@ add address=222.125.0.0/16 list=Chnroute
 add address=222.126.128.0/17 list=Chnroute
 add address=222.128.0.0/12 list=Chnroute
 add address=222.160.0.0/14 list=Chnroute
+add address=222.167.160.0/23 list=Chnroute
 add address=222.168.0.0/13 list=Chnroute
 add address=222.176.0.0/12 list=Chnroute
 add address=222.192.0.0/11 list=Chnroute
