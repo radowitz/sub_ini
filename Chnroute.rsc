@@ -2493,7 +2493,6 @@ add address=125.216.0.0/13 list=Chnroute
 add address=125.254.128.0/19 list=Chnroute
 add address=125.254.168.0/21 list=Chnroute
 add address=125.254.176.0/21 list=Chnroute
-add address=128.107.24.0/23 list=Chnroute
 add address=128.108.0.0/16 list=Chnroute
 add address=129.28.0.0/16 list=Chnroute
 add address=129.204.0.0/16 list=Chnroute
