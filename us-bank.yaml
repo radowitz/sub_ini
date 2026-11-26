@@ -37,6 +37,57 @@ payload:
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,moomoo
   - DOMAIN-KEYWORD,netcup
+  # 关键词对应的域名（只认域名的客户端和解析服务也能命中）
+  - DOMAIN-SUFFIX,capitalone.com
+  - DOMAIN-SUFFIX,capitalonegslbex.com
+  - DOMAIN-SUFFIX,capitalone360.com
+  - DOMAIN-SUFFIX,capitaloneshopping.com
+  - DOMAIN-SUFFIX,capitalonesoftware.com
+  - DOMAIN-SUFFIX,fidelity.com
+  - DOMAIN-SUFFIX,fmr.com
+  - DOMAIN-SUFFIX,fidelityinvestments.com
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,transferwise.com
+  - DOMAIN-SUFFIX,bnymellon.com
+  - DOMAIN-SUFFIX,bny.com
+  - DOMAIN-SUFFIX,vantagescore.com
+  - DOMAIN-SUFFIX,myfico.com
+  - DOMAIN-SUFFIX,fico.com
+  - DOMAIN-SUFFIX,equifax.com
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,experian.com
+  - DOMAIN-SUFFIX,experianidworks.com
+  - DOMAIN-SUFFIX,bloomcredit.io
+  - DOMAIN-SUFFIX,stitchcredit.com
+  - DOMAIN-SUFFIX,chase.com
+  - DOMAIN-SUFFIX,chasecdn.com
+  - DOMAIN-SUFFIX,jpmorganchase.com
+  - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,aexp.com
+  - DOMAIN-SUFFIX,citi.com
+  - DOMAIN-SUFFIX,citibank.com
+  - DOMAIN-SUFFIX,citibankonline.com
+  - DOMAIN-SUFFIX,citigroup.com
+  - DOMAIN-SUFFIX,citicards.com
+  - DOMAIN-SUFFIX,sofi.com
+  - DOMAIN-SUFFIX,sofi.org
+  - DOMAIN-SUFFIX,bankofamerica.com
+  - DOMAIN-SUFFIX,bac-assets.com
+  - DOMAIN-SUFFIX,bofa.com
+  - DOMAIN-SUFFIX,zellepay.com
+  - DOMAIN-SUFFIX,zelle.com
+  - DOMAIN-SUFFIX,usbank.com
+  - DOMAIN-SUFFIX,finicity.com
+  - DOMAIN-SUFFIX,statefarm.com
+  - DOMAIN-SUFFIX,revolut.com
+  - DOMAIN-SUFFIX,annualcreditreport.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripecdn.com
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,netcup.de
+  - DOMAIN-SUFFIX,netcup.eu
+  - DOMAIN-SUFFIX,netcup.com
   # 银行
   - DOMAIN-SUFFIX,wellsfargo.com
   - DOMAIN-SUFFIX,wf.com
