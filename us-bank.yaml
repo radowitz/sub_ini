@@ -30,6 +30,7 @@ payload:
   - DOMAIN,prodregistryv2.org
   - DOMAIN,featureassets.org
   - DOMAIN,mobile-collector.newrelic.com
+  - DOMAIN,fastly-mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,aexp-static.com
   - DOMAIN,assets.adobedtm.com
